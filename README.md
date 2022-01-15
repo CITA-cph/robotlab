@@ -1,5 +1,5 @@
 # CITA Robot Lab
-Tools, examples, scripts, etc. for the CITA robot lab at KADK, in Copenhagen.
+Tools, examples, scripts, etc. for the CITA robot lab at the Royal Danish Academy, in Copenhagen.
 
 ## Examples
 Contains example files.
